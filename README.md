@@ -1,2 +1,1 @@
-# Elliptic-Curve-Standard
-Tool for checking correctness of elliptic-curve algorithms
+# Elliptic-Curve-HSM
